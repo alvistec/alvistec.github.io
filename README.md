@@ -1,33 +1,27 @@
-Consejos, Trucos, Tutoriales, e Ideas **generado** en formato de blog de Jekyll  
+Consejos, Trucos, Tutoriales, e Ideas **generado** en formato de blog estático de Jekyll  
 ================
 
-## <a href="http://es.alvistec.com">es.alvistec.com</a>
-
 #### Bienvenidos a mi blog!
-El blog "Alvistec" pretende posicionarse por sí mismo como un sitio recurrente para consulta, en tecnologías alternativas. El blog "Alvistec" pretende así llegar a convertirse en uno de los sitios web más visitados de ténicos entusiastas que contribuye a facilitar y extender el uso del software libre, re-uso electrónico; entre otros temas. 
+El blog "Alvistec" pretende posicionarse por sí mismo como un sitio recurrente para consulta, en tecnologías alternativas. El blog "Alvistec" pretende así llegar a convertirse en uno de los sitios web más visitados de técnicos, entusiastas que contribuye a facilitar y extender el uso del software libre, re-uso electrónico; trabajos caseros entre otros temas.
 
 #### 1. Información Personal
-Nombre: Luis Alvarez  
+Nombre: Alfredo
 Género: Masculino  
-Ciudad: Cali - Colombia, Sobreviviendo, un día a la vez!  
-Carrera: Electrónica, y entusiasta del software libre!
+Ciudad: Cali - Colombia, País difícil para vivir pero aquí estoy sobreviviendo un día a la vez gracias a youtube y a ti que me ves…  
+Carrera: Electrónica, electricidad, trabajos caseros, hacks y entre otras cosas entusiasta del software libre!
 
 #### 2. Mis enlaces
-Blogger 1: <a href="https://alvistec.blogspot.com/ncr/" target="_blank">http://alvistec.blogspot.com</a>  
-Blogger 2: <a href="https://tutoslinks.blogspot.com/ncr/" target="_blank">http://tutoslinks.blogspot.com</a>  
-Youtube: <a href="https://www.youtube.com/channel/UCapEHg1NiGEF8031h0jLG7w/" target="_blank">Plan Alvistec</a>  
-Twitter: <a href="https://twitter.com/alvistec" target="_blank">@alvistec</a>  
-Links: <a href="http://es.alvistec.com/acerca-de-alvistec.html" >Sobre Alvistec</a>
-
-#### 3. Contacto
-Email: mivistec@gmail.com  
-Cualquier error en este sitio web es mío, y si usted me lo señala, yo lo podría arreglar :)
+Blog free: <a href="https://alvistec.github.io">https://alvistec.github.io</a>
+Blog de miembros en Blogger: <a href="https://alvistec.blogspot.com">http://alvistec.blogspot.com</a><br>
+Canal de Youtube: <a href="https://www.youtube.com/channel/UCapEHg1NiGEF8031h0jLG7w/">Plan Alvistec</a><br>
+Twitter "casi no la uso": <a href="https://twitter.com/alvistec">@alvistec</a>
 
 #### 2. Sobre el empleo de la plantilla
 Este sitio web está basado en la plantilla de jekyll de panxw y el framework de bootstrap para el diseño web (html-css).  
-He generado esta web sobre la instalación de la plantilla "minima" de jekyll y luego genere el sitio con el generador de jekyll en un equipo con linux (lubuntu).
+He generado esta web sobre una instalación límpia de la plantilla "minima" de jekyll, encima de esta he copiado la estructura de directorios y archivos del sitio de panxw, modifiqué los archivos a mi gusto y finalmente genere el sitio con jekyll en un equipo con linux, gran tarea!
 
 #### 2. Enlace Amistoso
 Enlace para contactar al autor "La plantilla de jekyll que he usado fue diseñada por panxw"
 Para mayor información de panxw visita:
-<a href="http://www.panxw.com" target="_blank">http://www.panxw.com</a> <a href="https://github.com/panxw/panxw.github.com" target="_blank">[código fuente]</a>
+http://www.panxw.com, https://github.com/panxw/panxw.github.com
+La página de panxw ya no existe pero puedes intentar buscarlo!
