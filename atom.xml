@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <?xml-stylesheet type="text/css" href="https://alvistec.github.io/css/atom.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <link href="https://alvistec.github.io/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://alvistec.github.io/" rel="alternate" type="text/html" hreflang="es" />
+  <id>https://alvistec.github.io/atom.xml</id>
+  <updated>2024-08-30T23:59:31+00:00</updated>
+  <category term="electronica" /><category term="triac" /><category term="scr" /><category term="thyristor" /><category term="comprobaciones" />
+    <title type="text">[Atom/Feed] Alvistec: Consejos, Trucos, Tutoriales, e Ideas en formato de blog de Jekyll</title>
+  
+    <subtitle type="html">Este es el blog free del canal Espacio Alvistec: un sitio web estático simple para tec info, blogging, trabajos caseros, referencias, tecnología alternativa, creatividad. Para acceder a más contenido exclusivo, hazte miembro y podrás acceder al blog VIP de miembros del canal
+</subtitle>
+  
+  
+    <author>
+        <name>Alfredo - Espacio Alvistec</name>
+      
+      
+    </author>
+  
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  
+    <entry>
+      <id>https://alvistec.github.io/posts/Comprobar-triac-tester-analogico</id>
+      <published>2016-06-01T16:45:04+00:00</published>
+      <title type="html">Cómo comprobar el triac con tester analógico</title>
+      <link href="https://alvistec.github.io/posts/Comprobar-triac-tester-analogico.html" rel="alternate" type="text/html" title="Cómo comprobar el triac con tester analógico" />
+      <updated>2016-06-01T16:45:04+00:00</updated>
+      
+        <category term="electronica" />
+      
+      
+        <category term="triac" />
+      
+        <category term="scr" />
+      
+        <category term="thyristor" />
+      
+        <category term="comprobaciones" />
+      
+      
+        <summary type="html">El triac es quizá uno de los más importantes componentes electrónicos de conmutación. Un TRIAC es un componente electrónico rectificador de estado sólido de 3 terminales, en este artículo verás como se puede hacer su comprobación con un tester analógico.</summary>
+      
+    </entry>
+  
+</feed>

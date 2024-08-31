@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - Blog Home HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * Modified by github user lamanfre
+ */
+
+/* !
+ * Begin add by user lamanfre
+*/
+
+.prev{
+
+}
+.next{
+	margin-right:1rem;
+}
+.the-content{
+	margin-top:1.5rem;
+}
+ul{
+	padding-left:25px;
+}
+ol{
+	padding-left:25px;
+}
+
+/* !
+ * End add by user lamanfre
+* /
