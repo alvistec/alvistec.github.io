@@ -7,12 +7,11 @@ El blog "Alvistec" pretende posicionarse por sí mismo como un sitio recurrente 
 #### 1. Información Personal
 Nombre: Alfredo  
 Género: Masculino  
-Ciudad: Cali - Colombia, País difícil para vivir pero aquí estoy sobreviviendo un día a la vez gracias a youtube y a ti que me ves…  
+Colombia, País difícil para vivir pero aquí estoy sobreviviendo un día a la vez gracias a youtube y a ti que me ves…  
 Carrera: Electrónica, electricidad, trabajos caseros, hacks y entre otras cosas entusiasta del software libre!
 
 #### 2. Mis enlaces
 Blog free: <a href="https://alvistec.github.io">https://alvistec.github.io</a>  
-Blog de miembros en Blogger: <a href="https://alvistec.blogspot.com">http://alvistec.blogspot.com</a>  
 Canal de Youtube: <a href="https://www.youtube.com/channel/UCapEHg1NiGEF8031h0jLG7w/">Plan Alvistec</a>  
 Twitter "casi no la uso": <a href="https://twitter.com/amediastec">@amediastec</a>
 
