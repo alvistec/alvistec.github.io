@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://es.alvistec.com/sitemap.xml
+Disallow: /
