@@ -9,30 +9,97 @@
     <meta name='description' content='Post del canal Espacio Alvistec' />
     <link rel='image_src' href='https://alvistec.github.io/images/other/favicon-150x150.png' />
 	<link rel='icon' type='image/png' sizes='32x32' href='https://alvistec.github.io/favicon-32x32.png'/>
-    <script type='text/JavaScript'>
-         function Redirect() {
-            window.location = 'https://alvistec.xyz/post/circuito-triac-licuadora-oster/';
-         }
-         document.write('You will be redirected to the main page in 4 seconds - Serás redirigido en 4 segundos a la página principal');
-         setTimeout(function() {
-         Redirect();
-         }, 3000);
-    </script>
+    
+    <style type='text/css'>
+        * {
+        box-sizing: border-box;
+        }
+
+        body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #f4f4f5;
+        color: #18181b;
+        font-family: Arial, sans-serif;
+        }
+
+        main {
+        padding: 2.5rem;
+        text-align: center;
+        background: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 10px 30px rgb(0 0 0 / 10%);
+        }
+
+        h1 {
+        margin-top: 0;
+        font-size: 1.75rem;
+        }
+
+        p {
+        color: #52525b;
+        font-size: 1.1rem;
+        line-height: 1.6;
+        }
+
+        a {
+        display: inline-block;
+        margin-top: 1rem;
+        padding: 0.75rem 1.25rem;
+        border-radius: 8px;
+        background: #18181b;
+        color: #ffffff;
+        text-decoration: none;
+        transition: background 0.2s ease;
+        }
+        a:hover {  
+            background: #3f3f46;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+    </style>
  </head>
   <body>
   <div class='container'>
       <div class='row'>
         <!-- Content -->
         <div class='col-lg-12'>
-            <h1>Redirigiendo al Blog de miembros Espacio Alvistec</h1>
             <div class='mx-auto my-3 py-3'>
-                <p class='text-center'><a href='https://faucet.alvistec.xyz/' target='_blank'><img class='img-fluid' src='/banner-litecoin-faucet-468x60.gif' alt='ltc-faucet-banner' /></a></p>
                 <p class='text-center'>
-                <a href='https://www.youtube.com/c/EspacioAlvistec' target='_blank'><img class='img-fluid' src='/logoheaderblog-500x120.webp' alt='logo-blog-canal' /></a>
+                    <a href='https://www.youtube.com/c/EspacioAlvistec' target='_blank'><img class='img-fluid' src='/logoheaderblog-500x120.webp' alt='logo-blog-canal' /></a>
                 </p>
+                <h3 class='text-center'>ESPACIO ALVISTEC</h3>
+                <main>
+                    <h1>Redirigiendo al Blog de miembros</h1>
+                    <p class='text-center'>Serás redirigido en <span id='countdown'>4</span> <span id='unit'>segundos</span>.</p>
+                    <p>You will be redirected to the main page in few seconds.</p>
+                    <a href='https://alvistec.ct.ws/post/circuito-triac-licuadora-oster/' role='button'>Ir ahora</a>
+                </main>
             </div>
         </div>
       </div>
   </div>
+  <script type='text/JavaScript'>
+    const redirectUrl = 'https://alvistec.ct.ws/post/circuito-triac-licuadora-oster/'
+    let secondsLeft = 4
+
+    const countdown = document.getElementById('countdown')
+    const unit = document.getElementById('unit')
+
+    const timer = setInterval(() => {
+    secondsLeft -= 1
+    countdown.textContent = secondsLeft
+    //unit.textContent = secondsLeft === 1 ? 'segundo' : 'segundos'
+
+    if (secondsLeft <= 0) {
+        clearInterval(timer)
+        window.location.assign(redirectUrl)
+    }
+    }, 1000)
+  </script>
   </body>
 </html>
